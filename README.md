@@ -14,8 +14,8 @@ This repository contains the code used for the thesis **"A Comparison of Tree-Ba
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/mspeckbacher/XXX.git
-    cd XXX
+    git clone https://github.com/mspeckbacher/BT-MultipleImputation.git
+    cd BT-MultipleImputation
     ```
 
 2. **Generate Data**: Run `datagen.R` to create the datasets.
