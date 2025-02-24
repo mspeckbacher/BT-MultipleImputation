@@ -4,6 +4,7 @@ This repository contains the code used for the thesis **"A Comparison of Tree-Ba
 
 ## Repository Structure
 
+- **`Thesis.pdf`**: Bachelor’s thesis
 - **`datagen.R`**: Script to generate datasets. 
 - **`missing.R`**: Script to induce missing values in the generated datasets. Requires datasets created from `datagen.R`.  
 - **`imputation.R`**: Script to perform multiple imputation on datasets with missing values. Requires datasets created from `missing.R`. Note: Running imputation on all datasets results in very long runtimes.  
